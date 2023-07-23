@@ -1,4 +1,4 @@
-baseURL = 'http://gohugo.io/'
+baseURL = 'https://jamesmr13.github.io/'
 languageCode = 'en-us'
 theme = 'nightfall'
 [menu]
