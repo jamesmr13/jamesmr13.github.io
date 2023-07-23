@@ -2,10 +2,10 @@ baseURL = 'https://jamesmr13.github.io/'
 languageCode = 'en-us'
 theme = 'nightfall'
 [menu]
-  [[menu.header]]
-    name = "blog"
-    weight = 0
-    url = "blog"
+#  [[menu.header]]
+#    name = "blog"
+#    weight = 0
+#    url = "blog"
   [[menu.header]]
     name = "about"
     weight = 1
@@ -17,7 +17,7 @@ theme = 'nightfall'
 
 [params]
 author = "James Robertson"
-user = "hello"
+user = "James Robertson"
 hostname = "jamesmr13.github.io"
 
 readingTime = true  # Show reading time on post page
