@@ -18,7 +18,7 @@ theme = 'nightfall'
 [params]
 author = "James Robertson"
 user = "hello"
-hostname = "gohugo.io"
+hostname = "jamesmr13.github.io"
 
 readingTime = true  # Show reading time on post page
 published = true  # Show published data on post page
