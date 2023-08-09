@@ -2,10 +2,10 @@ baseURL = 'https://jamesmr13.github.io/'
 languageCode = 'en-us'
 theme = 'nightfall'
 [menu]
-#  [[menu.header]]
-#    name = "blog"
-#    weight = 0
-#    url = "blog"
+  [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "blog"
   [[menu.header]]
     name = "about"
     weight = 1
@@ -19,7 +19,7 @@ theme = 'nightfall'
 author = "James Robertson"
 user = "James Robertson"
 hostname = "jamesmr13.github.io"
-
+picture = "content/pictures/profile.jpg"
 readingTime = true  # Show reading time on post page
 published = true  # Show published data on post page
 
@@ -28,17 +28,17 @@ key = 0
 name = "github"
 url = "https://github.com/jamesmr13"
 
-[[params.social]]
-key = 1
-name = "twitter"
-url = "https://www.example.com"
+#[[params.social]]
+#key = 1
+#name = "twitter"
+#url = "https://www.example.com"
 
 [[params.social]]
 key = 2
 name = "linkedin"
-url = "https://www.example.com"
+url = "https://www.linkedin.com/in/james-robertson-127375253"
 
 [[params.social]]
 key = 3
 name = "email"
-url = "mailto:email@example.com"
+url = "mailto:jrober23@umd.edu"
